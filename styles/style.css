@@ -1,0 +1,23 @@
+/* Shared css */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.button-primary{
+ background-color: #FD6E0A;
+ border: 0;
+}
+.title-letter{
+    color:#FD6E0A
+}
+
+nav{
+    display: flex;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+}
